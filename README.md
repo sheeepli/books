@@ -8,7 +8,7 @@
 - [ ] JavaScript面向对象编程指南(第2版)
 - [ ] JavaScript权威指南(第6版)
 - [ ] JavaScript忍者秘籍 第二版
-- [ ] [*JavaScript设计模式与开发实践*]('/javascript/JavaScript设计模式与开发实践.pdf')
+- [ ] [*JavaScript设计模式与开发实践*](/javascript/JavaScript设计模式与开发实践.pdf)
 - [ ] JavaScript正则表达式迷你书1
 - [ ] 基于MVC的JavaScript+Web富应用开发
 - [ ] 你不知道的JavaScript（上卷）
