@@ -7,7 +7,7 @@
 - [ ] [JavaScript框架设计（第2版）](/javascript/JavaScript框架设计（第2版）.pdf)
 - [ ] [JavaScript面向对象编程指南(第2版)](/javascript/JavaScript面向对象编程指南(第2版).pdf)
 - [ ] [JavaScript权威指南(第6版)](/javascript/JavaScript权威指南(第6版).pdf)
-- [ ] [JavaScript忍者秘籍 第二版](/javascript/JavaScript忍者秘籍 第二版.pdf)
+- [ ] [JavaScript忍者秘籍_第二版](/javascript/JavaScript%E5%BF%8D%E8%80%85%E7%A7%98%E7%B1%8D%20%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 - [ ] [*JavaScript设计模式与开发实践*](/javascript/JavaScript设计模式与开发实践.pdf)
 - [ ] [JavaScript正则表达式迷你书1](/javascript/JavaScript正则表达式迷你书1.pdf)
 - [ ] [基于MVC的JavaScript+Web富应用开发](/javascript/基于MVC的JavaScript+Web富应用开发.pdf)
